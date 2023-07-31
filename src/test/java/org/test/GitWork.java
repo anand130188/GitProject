@@ -35,4 +35,16 @@ public class GitWork {
 
 	}
 
+	public void australia() {
+		System.out.println("Sydney");
+
+	}
+	public void london() {
+		System.out.println("England");
+
+	}
+	public void germany() {
+		System.out.println("berlin");
+
+	}
 }
